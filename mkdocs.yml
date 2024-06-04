@@ -1,0 +1,12 @@
+site_name: My Docs for API course
+
+theme:
+  name: dracula
+  favicon: logo.png
+
+nav:
+ - About website: index.md
+ - API Docs structure: structure.md
+ - API reference: dist/index.html
+ - My review: for_me.md
+
