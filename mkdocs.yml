@@ -10,6 +10,6 @@ plugins:
 nav:
  - About website: index.md
  - API Docs structure: structure.md
- - API reference: dist/index.html
+ - API reference: API_ref.md
  - My review: for_me.md
 
