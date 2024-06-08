@@ -4,6 +4,9 @@ theme:
   name: dracula
   favicon: logo.png
 
+plugins:
+   - swagger-ui-tag
+
 nav:
  - About website: index.md
  - API Docs structure: structure.md

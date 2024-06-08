@@ -1,3 +1,3 @@
 # API Reference
 
-This site was 
+<swagger-ui src="https://petstore.swagger.io/v2/swagger.json"/>
