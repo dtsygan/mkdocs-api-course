@@ -5,7 +5,12 @@ theme:
   favicon: logo.png
 
 plugins:
-   - swagger-ui-tag
+   - swagger-ui-tag:
+        background: White
+        docExpansion: none
+        filter: ""
+        syntaxHighlightTheme: monokai
+        tryItOutEnabled: ['get', 'post']
 
 nav:
  - About website: index.md
