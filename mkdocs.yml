@@ -1,7 +1,7 @@
 site_name: My Docs for API course
 
 theme:
-  name: dracula
+  name: material
   favicon: logo.png
 
 plugins:
